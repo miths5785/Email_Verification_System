@@ -4,5 +4,5 @@ input[type = text] {
 	color: black;
 }
 input[type = text]: focus {
-  background-color: lightblue;
+  	background-color: lightblue;
 }
